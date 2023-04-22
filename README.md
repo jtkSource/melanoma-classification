@@ -70,14 +70,15 @@ Predictive Class melanoma
 ```
 
 ## Technologies Used
-- 
+- tensorflow
+- keras
+- matplotlib.pyplot
+- pandas
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
 
+Part of Upgrad Course on ML&AI
 
 ## Contact
+
 Created by [@jtkSource] - feel free to contact me!
